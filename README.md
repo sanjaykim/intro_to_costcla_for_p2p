@@ -9,9 +9,9 @@ Since Credit scoring model is the key competitiveness for p2p companies, I wante
 
 Data : Lending Club Loan Data at kaggle.com
        
-       "https://www.kaggle.com/wendykan/lending-club-loan-data/downloads/lending-club-loan-data.zip"
+     "https://www.kaggle.com/wendykan/lending-club-loan-data/downloads/lending-club-loan-data.zip"
 
 
-Library : costcla is a Python module for cost-sensitive machine learning (classification) built on top of Scikit-Learn, SciPy and distributed under the 3-Clause BSD license 
+Library : costcla is a Python module for cost-sensitive machine learning (classification) built on top of Scikit-Learn, SciPy and distributed under the 3-Clause BSD license.
 
-Documentation : "http://albahnsen.com/CostSensitiveClassification/index.html"
+    "http://albahnsen.com/CostSensitiveClassification/index.html"
